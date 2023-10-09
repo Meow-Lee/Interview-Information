@@ -21,6 +21,7 @@
  5. 해석된 class 파일들은 Runtime Data Areas에 배치되어 실질적 수행 시에 실행됨 (이 과정에서 필요에 따라 GC와 같은 관리 작업 수행)
 
 ## 실행 과정 (그림)
+<img width="843" alt="JVM" src="https://github.com/Meow-Lee/Interview-Information/assets/67636286/fd04ed39-f700-4411-8841-09cffa43ab6b">
 
 
 ## Reference
